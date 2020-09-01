@@ -5,3 +5,5 @@ This is from feature branch.
 This is from master branch after pull.
 
 This is from master branch second time.
+
+This is from feature second time.
